@@ -2,6 +2,7 @@
   "name": "hangman",
   "version": "1.0.0",
   "description": "Sessions.fm coding challenge.",
+  "homepage": "https://nvimai.github.io/react-typescript-hangman",
   "keywords": [
     "sessionsfm",
     "hangman"
