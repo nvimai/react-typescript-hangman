@@ -1,0 +1,31 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "Sessions.fm coding challenge.",
+  "keywords": [
+    "sessionsfm",
+    "hangman"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@types/jest": "^26.0.14",
+    "@types/node": "^14.11.1",
+    "@types/react-dom": "^16.9.8",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "^3.4.3",
+    "typescript": "^4.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

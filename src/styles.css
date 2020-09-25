@@ -1,0 +1,49 @@
+.App {
+  font-family: sans-serif;
+}
+
+.title {
+  text-align: center;
+  padding-bottom: 20px;
+  margin-bottom: 10px;
+  border-bottom: solid 3px #000;
+}
+
+.title img {
+  width: 308px;
+  height: 347px;
+}
+
+ul {
+  text-align: left;
+}
+.mt-1 {
+  margin-top: 1rem;
+}
+.result {
+  color: red;
+}
+.result.win {
+  color: green;
+}
+button {
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  background: green;
+  color: white;
+  border: 1px solid green;
+}
+
+button:hover {
+  color: green;
+  background: white;
+}
+
+.usedLetter {
+  border: 1px solid black;
+  padding: 0.5rem 1rem;
+}
+
+input {
+  padding: 0.4rem;
+}
