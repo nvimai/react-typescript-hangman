@@ -1,6 +1,7 @@
 {
   "short_name": "Hangman",
   "name": "Hangman: React TypeScript",
+  "homepage": "https://nvimai.github.io/react-typescript-hangman",
   "icons": [
     {
       "src": "favicon.ico",
