@@ -14,7 +14,7 @@ const Game = () => {
 
   // Set the result and gameState (global) based on the gameState (local)
   useEffect(() => {
-      console.log(rootContext.gameState)
+      // console.log(rootContext.gameState)
     switch (rootContext.gameState) {
       case 7: {
         rootContext.setResult('You loose!!!');
